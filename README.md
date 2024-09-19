@@ -20,49 +20,58 @@ A Linux distribution is a version of the Linux operating system that combines th
 
 Linux commands are used to interact with the system, navigate directories, and manage files. Here are some basic commands:
 
-ls: Lists files and directories in the current location.
-cd: Changes the directory.
-Example: cd / takes you to the root directory, while cd /home takes you to the home directory.
-pwd: Prints the current working directory.
-mkdir: Creates a new directory.
-cp: Copies files or directories.
-mv: Moves or renames files or directories.
-rm: Removes files or directories.
-sudo: Executes a command as the superuser (root).
-echo $SHELL: Displays the current shell environment (e.g., bash, zsh).
-apt install: Installs packages using the APT package manager, commonly used in Debian-based systems. 
+- ls: Lists files and directories in the current location.
+- cd: Changes the directory.
+- Example: cd / takes you to the root directory, while cd /home takes you to the home directory.
+- pwd: Prints the current working directory.
+- mkdir: Creates a new directory.
+- cp: Copies files or directories.
+- mv: Moves or renames files or directories.
+- rm: Removes files or directories.
+- sudo: Executes a command as the superuser (root).
+- echo $SHELL: Displays the current shell environment (e.g., bash, zsh).
+- apt install: Installs packages using the APT package manager, commonly used in Debian-based systems. 
+
 Some additional useful commands:
-touch: Creates a new empty file.
-cat: Displays the contents of a file.
-man: Opens the manual for a command (e.g., man ls provides details on the ls command).
-top: Shows real-time system processes.
-df -h: Displays disk space usage in a human-readable format.
-chmod: Changes file permissions.
+
+- touch: Creates a new empty file.
+- cat: Displays the contents of a file.
+- man: Opens the manual for a command (e.g., man ls provides details on the ls command).
+- top: Shows real-time system processes.
+- df -h: Displays disk space usage in a human-readable format.
+- chmod: Changes file permissions.
 
 **Understanding the Linux File System and Shell**
 
 The Linux file system follows a hierarchical structure. Some important paths include:
-/: The root directory, which contains all other directories.
-/root: The home directory for the root (superuser).
-/var/www/html: Commonly used for web files.
+- /: The root directory, which contains all other directories.
+- /root: The home directory for the root (superuser).
+- /var/www/html: Commonly used for web files.
+
 Users are identified by their prompt symbol:
-$: Indicates a normal user.
-#: Indicates a superuser (root).
+
+- $: Indicates a normal user.
+- #: Indicates a superuser (root).
+
 Linux supports various types of shell environments, which act as the command-line interface. Common shells include:
-Bash (Bourne Again Shell)
-sh (Bourne Shell)
-zsh (Z Shell)
-csh (C Shell)
-To check your current shell, you can use the command echo $SHELL.
+
+- Bash (Bourne Again Shell)
+- sh (Bourne Shell)
+- zsh (Z Shell)
+- csh (C Shell)
+
+To check your current shell, we can use the command echo $SHELL.
+
 Vi Editor Basics
 
 The vi editor is a powerful text editor in Linux. Here are some commands:
-dd: Deletes a line.
-x: Inserts text.
-i: Enters insert mode to write text.
-wq: Saves and exits.
-q!: Exits without saving.
-O: Inserts a new line before the current one.
+
+- dd: Deletes a line.
+- x: Inserts text.
+- i: Enters insert mode to write text.
+- wq: Saves and exits.
+- q!: Exits without saving.
+- O: Inserts a new line before the current one.
 
 ## Conclusion
 
