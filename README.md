@@ -12,9 +12,9 @@ Over time, Linux has evolved into a highly reliable and flexible operating syste
 A Linux distribution is a version of the Linux operating system that combines the Linux kernel with a package of software tools, libraries, and utilities. These distributions vary in purpose, design, and the software they include, making them suitable for different types of users and applications.
 
 ### Popular Linux distributions include:
-**Ubuntu** : Known for its user-friendliness, Ubuntu is ideal for beginners and is widely used on desktop computers.
-**Debian** : One of the oldest distributions, Debian is known for its stability and is often used on servers.
-**Fedora** : An advanced distribution supported by Red Hat, Fedora is popular for developers.
+- **Ubuntu** : Known for its user-friendliness, Ubuntu is ideal for beginners and is widely used on desktop computers.
+- **Debian** : One of the oldest distributions, Debian is known for its stability and is often used on servers.
+- **Fedora** : An advanced distribution supported by Red Hat, Fedora is popular for developers.
 
 ## Section 3: Basic Linux Commands
 
