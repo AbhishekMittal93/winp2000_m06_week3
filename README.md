@@ -1,12 +1,12 @@
 # winp2000_m06_week3
 # Learnig about Linux: History, Distributions, and Essential Commands
 ## Introduction:
-This document outlines key learnings about Linux, including its history, the different Linux distributions, and some basic commands that are essential for working with the system. Linux is a powerful, open-source operating system that plays a significant role in modern computing.
+This document shares key learnings about Linux, including its history, the different Linux distributions, and some basic commands that are essential for working with the system. Linux is a powerful, open-source operating system that plays a significant role in modern computing.
 
 ## Section 1: Linux History
 Linux originated in the early 1990s when Linus Torvalds, a Finnish software engineer, developed the Linux kernel. The kernel is a crucial part of the operating system that interacts directly with the computer hardware. Torvalds created Linux as a free and open alternative to the proprietary UNIX operating system by Bell Labs, allowing anyone to modify and distribute it.
 
-Over time, Linux has evolved into a highly reliable and flexible operating system that powers a wide range of devices, from personal computers and servers to smartphones and embedded systems. The open-source nature of Linux has made it popular among developers and organizations, leading to the creation of numerous distributions and widespread adoption across industries.
+Over time, Linux has evolved into a highly reliable and flexible operating system that powers a wide range of devices, from personal computers and servers to smartphones and embedded systems. The open-source nature of Linux has made it popular among developers and organizations.
 
 ## Section 2: Linux Distributions
 A Linux distribution is a version of the Linux operating system that combines the Linux kernel with a package of software tools, libraries, and utilities. These distributions vary in purpose, design, and the software they include, making them suitable for different types of users and applications.
@@ -38,7 +38,6 @@ Some additional useful commands:
 - cat: Displays the contents of a file.
 - man: Opens the manual for a command (e.g., man ls provides details on the ls command).
 - top: Shows real-time system processes.
-- df -h: Displays disk space usage in a human-readable format.
 - chmod: Changes file permissions.
 
 **Understanding the Linux File System and Shell**
